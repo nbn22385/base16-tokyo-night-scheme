@@ -1,18 +1,37 @@
 scheme: "tokyo night night"
 author: "enika"
-base00: "363B54"
-base01: "F7768E"
-base02: "41A6B5"
-base03: "E0AF68"
-base04: "7AA2F7"
-base05: "BB9AF7"
-base06: "7DCFFF"
-base07: "787C99"
-base08: "363B54"
-base09: "F7768E"
-base0A: "41A6B5"
-base0B: "E0AF68"
-base0C: "7AA2F7"
-base0D: "BB9AF7"
-base0E: "7DCFFF"
-base0F: "ACB0D0"
+base00: "#06080a"
+base01: "#1a1b26"
+base02: "#232433"
+base03: "#2a2b3d"
+base04: "#32344a"
+base05: "#a9b1d6" # white
+base06: "#a9b1d6"
+base07: "#a9b1d6" 
+base08: "#ff7a93" # red
+base09: "#ff9364" # orange?
+base0A: "#e0af68" # bright yellow
+base0B: "#b9f27c" # bright green
+base0C: "#7aa2f7" # bright cyan 
+base0D: "#7da6ff" # bright blue
+base0E: "#ad8ee6" # bright magenta
+base0F: "#e0af68" # bright brown
+
+
+# " GUI color definitions
+# gui00 = "#181818"
+# gui01 = "#282828"
+# gui02 = "#383838"
+# gui03 = "#585858"
+# gui04 = "#b8b8b8"
+# gui05 = "#d8d8d8"
+# gui06 = "#e8e8e8"
+# gui07 = "#f8f8f8"
+# gui08 = "#ab4642"
+# gui09 = "#dc9656"
+# gui0A = "#f7ca88"
+# gui0B = "#a1b56c"
+# gui0C = "#86c1b9"
+# gui0D = "#7cafc2"
+# gui0E = "#ba8baf"
+# gui0F = "#a16946"
