@@ -1,18 +1,18 @@
 scheme: "tokyonight night"
 author: "enika"
-base00: "363b54" # black (background)
-base01: "f7768e" # darkred
-base02: "41a6b5" # darkgreen
-base03: "e0af68" # darkyellow
-base04: "7aa2f7" # darkblue
-base05: "bb9af7" # darkmagenta
-base06: "7dcfff" # darkcyan
-base07: "787c99" # grey/darkwhite
-base08: "363b54" # darkgrey/darkblack
-base09: "f7768e" # red
-base0A: "41a6b5" # green
-base0B: "e0af68" # yellow
-base0C: "7aa2f7" # blue
-base0D: "bb9af7" # magenta
-base0E: "7dcfff" # cyan
-base0F: "acb0d0" # white
+base00: "363b54"
+base01: "f7768e"
+base02: "41a6b5"
+base03: "e0af68"
+base04: "7aa2f7"
+base05: "bb9af7"
+base06: "7dcfff"
+base07: "787c99"
+base08: "363b54"
+base09: "f7768e"
+base0A: "41a6b5"
+base0B: "e0af68"
+base0C: "7aa2f7"
+base0D: "bb9af7"
+base0E: "7dcfff"
+base0F: "acb0d0"
