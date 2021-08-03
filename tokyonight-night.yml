@@ -1,0 +1,62 @@
+scheme: "tokyonight night"
+author: "enika"
+base00: "0x1a1b26"
+base01: "0xf7768e"
+base02: "0x9ece6a"
+base03: "0xe0af68"
+base04: "0x7aa2f7"
+base05: "0xad8ee6"
+base06: "0x449dab"
+base07: "0xacb0d0"
+base08: "0x787c99"
+base09: "0xff7a93"
+base0A: "0xb9f27c"
+base0B: "0xff9e64"
+base0C: "0x7da6ff"
+base0D: "0xbb9af7"
+base0E: "0x0db9d7"
+base0F: "0xa9b1d6"
+
+#   0     | black
+#   1     | darkred
+#   2     | darkgreen
+#   3     | darkyellow
+#   4     | darkblue
+#   5     | darkmagenta
+#   6     | darkcyan
+#   7     | gray
+#   8     | dark_grey
+#   9     | red
+#   10    | green
+#   11    | yellow
+#   12    | blue
+#   13    | magenta
+#   14    | cyan
+#   15    | white
+    
+# tokyo-night: &tokyo-night
+#   # Default colors
+# primary:
+#   background: '0x1a1b26'
+#   foreground: '0xa9b1d6'
+# # Normal colors
+# normal:
+#   black:   '0x32344a'
+#   red:     '0xf7768e'
+#   green:   '0x9ece6a'
+#   yellow:  '0xe0af68'
+#   blue:    '0x7aa2f7'
+#   magenta: '0xad8ee6'
+#   cyan:    '0x449dab'
+#   white:   '0x787c99'
+
+# # Bright colors
+# bright:
+#   black:   '0x444b6a'
+#   red:     '0xff7a93'
+#   green:   '0xb9f27c'
+#   yellow:  '0xff9e64'
+#   blue:    '0x7da6ff'
+#   magenta: '0xbb9af7'
+#   cyan:    '0x0db9d7'
+#   white:   '0xacb0d0'
